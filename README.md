@@ -3,8 +3,7 @@ Library for reading from the sensors in the issued robot through the MSP430.
 Example code included in example.c
 
 ## General Notes
-Configures with internal pull_up resistors. To be used in future implementation with the library
-for interacting with the motors.
+To be used in future implementation with the library for interacting with the motors.
 
 ## Functions
 
